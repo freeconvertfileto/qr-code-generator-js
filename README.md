@@ -2,7 +2,7 @@
 
 Generate QR codes from text or URL input with configurable error correction level and download as PNG, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/qr-code-generator
+**Live Demo:** https://file-converter-free.com/en/developer-tools/qr-code-generator-online
 
 ## How It Works
 
